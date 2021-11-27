@@ -1,3 +1,1 @@
-## hello! im futr, welcome to my github.
-# so basically i dont post here but sometimes i might. 
-# i am currently working on JavaScript and Python.
+https://discord.c99.nl/widget/theme-1/331875596303073281.png
