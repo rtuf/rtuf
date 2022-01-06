@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 👨‍💻 All of my projects are available at [https://twizzy.xyz](https://twizzy.xyz)
-
 - 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **futurepsd@gmail.com**
