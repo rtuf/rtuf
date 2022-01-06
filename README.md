@@ -27,5 +27,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rtuf&show_icons=true&locale=en&layout=compact" alt="rtuf" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rtuf&show_icons=true&locale=en" alt="rtuf" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=rtuf&show_icons=true&locale=en" alt="rtuf" /></p>
 
