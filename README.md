@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **futurepsd@gmail.com**
 
-- 📄 Know about my experiences [https://twizzy.xyz](https://twizzy.xyz)
+- 📄 Know about my experiences at [https://twizzy.xyz](https://twizzy.xyz)
 
 - ⚡ Fun fact **Other then coding, I am a Musician**
 
