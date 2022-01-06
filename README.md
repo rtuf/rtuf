@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences at [https://twizzy.xyz](https://twizzy.xyz)
 
-- ⚡ Fun fact **Other then coding, I am a Musician**
+- ⚡ Fun fact: **Other then coding, I am a Musician**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
