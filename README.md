@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **JavaScript**
 
-- 📫 How to reach me **futurepsd@gmail.com**
+- 📫 Reach me at **futurepsd@gmail.com**
 
 - 📄 Know about my experiences at [https://twizzy.xyz](https://twizzy.xyz)
 
