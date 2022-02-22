@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Futr</h1>
+<h1 align="center">Hello, I'm Futr</h1>
 <h3 align="center">A Developer from Delaware</h3>
 
 <p align="left"> <a href="https://twitter.com/futrworldx" target="blank"><img src="https://img.shields.io/twitter/follow/futrworldx?logo=twitter&style=for-the-badge" alt="futrworldx" /></a> </p>
