@@ -1,13 +1,13 @@
 <h1 align="center">Hello, I'm Futr</h1>
 <h3 align="center">A Developer from Delaware</h3>
 
-- 🔭 I’m currently working on **The Huncho Discord Bot**
+- 🔭 I’m currently working on **Things**
 
 - 🌱 I’m currently learning **C++**
 
 - 💬 Ask me about **JavaScript**
 
-- 📫 Reach me at **thefutr@icloud.com**
+- 📫 Reach me at **futr@beholdthefutr.com**
 
 - 📄 Know about my experiences at [https://beholdthefutr.com](https://beholdthefutr.com)
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/beholdthefutr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="beholdthefutr" height="30" width="40" /></a>
+<a href="https://twitter.com/FutrWorldX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="futrworldx" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
