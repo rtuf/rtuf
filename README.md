@@ -1,17 +1,15 @@
 <h1 align="center">Hello, I'm Futr</h1>
 <h3 align="center">A Developer from Delaware</h3>
 
-- 🔭 I’m currently working on **Things**
+- 🔭 I’m currently working on **FUTR WORDLWIDE**
 
 - 🌱 I’m currently learning **C++**
 
 - 💬 Ask me about **JavaScript**
 
-- 📫 Reach me at **futr@beholdthefutr.com**
+- 📫 Reach me at **futr@futrworldwide.com**
 
-- 📄 Know about my experiences at [https://beholdthefutr.com](https://beholdthefutr.com)
-
-- ⚡ Fun fact: **Other then coding, I am a Musician**
+- 📄 Know about my experiences at [https://futrworldwide.com](https://futrworldwide.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
