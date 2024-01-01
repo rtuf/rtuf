@@ -9,7 +9,7 @@
 
 - 📫 Reach me at **futr@futrworldwide.com**
 
-- 📄 Know about my experiences at [https://guns.lol/futr.com](https://guns.lol/futr)
+- 📄 Know about my experiences at [https://guns.lol/futr](https://guns.lol/futr)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
